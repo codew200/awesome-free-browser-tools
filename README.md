@@ -26,6 +26,7 @@ Free tools and usable free tiers are included. Account requirements, usage limit
 
 | Tool | What it does | Link |
 | --- | --- | --- |
+| ImgFlow | Free in-browser image compressor/converter (HEIC, WebP, AVIF, target-size). Local WASM — nothing uploaded. | [imgflow.taoliapp.com](https://imgflow.taoliapp.com/en/) |
 | Squoosh | Compare image codecs and compression settings with a visual preview. | [squoosh.app](https://squoosh.app/) |
 | CompressFly Image Compressor | Make images smaller with adjustable compression settings. | [compressfly.com](https://compressfly.com/compress-image) |
 | TinyPNG | Compress web images online, with free usage limits and paid plans. | [tinypng.com](https://tinypng.com/) |
