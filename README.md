@@ -178,6 +178,7 @@ Free tools and usable free tiers are included. Account requirements, usage limit
 | Fontshare | Browse free fonts and typeface pairings. | [fontshare.com](https://www.fontshare.com/) |
 | SVGOMG | Optimize SVG files with a visual interface for SVGO. | [jakearchibald.github.io](https://jakearchibald.github.io/svgomg/) |
 | favicon.io | Generate favicons from images, text, or emoji. | [favicon.io](https://favicon.io/) |
+| Pantalla Blanca | Fullscreen white screen for display tests, photo lighting, and solid backgrounds. | [pantallablanca.com](https://pantallablanca.com/) |
 | Pomofocus | Run focus sessions with a configurable Pomodoro timer. | [pomofocus.io](https://pomofocus.io/) |
 | World Time Buddy | Compare time zones and find suitable meeting times. | [worldtimebuddy.com](https://www.worldtimebuddy.com/) |
 
