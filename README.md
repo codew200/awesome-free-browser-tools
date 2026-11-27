@@ -180,6 +180,7 @@ Free tools and usable free tiers are included. Account requirements, usage limit
 | favicon.io | Generate favicons from images, text, or emoji. | [favicon.io](https://favicon.io/) |
 | Pomofocus | Run focus sessions with a configurable Pomodoro timer. | [pomofocus.io](https://pomofocus.io/) |
 | World Time Buddy | Compare time zones and find suitable meeting times. | [worldtimebuddy.com](https://www.worldtimebuddy.com/) |
+| StagePeek | Preview 2D seating maps and 3D concert stage sightlines with 1x-10x camera zoom across 201 venues (free first seat, no login). | [stagepeek.live](https://stagepeek.live/) |
 
 ## Maintenance
 
